@@ -20,11 +20,13 @@ Projeto desenvolvido pelos Devs:
 
 ## Base de dados
 
-A base de dados escolhida para o projeto foi a "Gender Classification Dataset", que pode ser encontrada no Kaggle através deste [link](https://www.kaggle.com/datasets/elakiricoder/gender-classification-dataset).
+A base de dados escolhida para o projeto foi a "Laptop Price", que pode ser encontrada no Kaggle através deste [link](https://www.kaggle.com/datasets/muhammetvarl/laptop-price).
 
 Dentre diversas vantagens encontradas nesta base de dados, podemos pontuar:
-- Facilidade para manuseio entre iniciantes;
-- Balanceamento entre gêneros (50/50);
+- Quantidade considerável de elementos para teste;
+- Necessidade de tratativa de dados;
+- Balanceamento entre as classes;
+- Eda possibilitando diversas descobertas;
 - Tamanho (possibilitando upload no github).
 
 ## Instalação
@@ -53,10 +55,10 @@ A estrutura de pastas do projeto buscou obedecer aos critérios organizacionais 
 ```sh
 ├── datasets
 │   ├── processed
-│   │   └── gender_classification.pkl
+│   │   └── laptop_price.pkl
 │   │   └── README.md
 │   ├── raw
-│   │   ├── gender_classification.csv
+│   │   ├── laptop_price.csv
 │   │   └── README.md
 │   └── README.md
 ├── notebooks
@@ -66,6 +68,7 @@ A estrutura de pastas do projeto buscou obedecer aos critérios organizacionais 
 │   │   └── matheus_ssilva.ipynb
 │   ├── model.ipynb
 │   └── report.ipynb
+│   └── tratative.ipynb
 └── outputs
     ├── imgs
     │   └── README.md
@@ -90,9 +93,9 @@ A estrutura de pastas do projeto buscou obedecer aos critérios organizacionais 
 ```sh
 ├── datasets
 │   ├── processed
-│   │   └── gender_classification.pkl
+│   │   └── laptop_price.pkl
 │   ├── raw
-│   │   ├── gender_classification.csv
+│   │   ├── laptop_price.csv
 ```
 
 - Notebook com as Principais descobertas
@@ -111,13 +114,29 @@ A estrutura de pastas do projeto buscou obedecer aos critérios organizacionais 
 │   ├── model.ipynb
 ```
 
+- Notebook com a tratativa desses dados
+
+
+```sh
+├── notebooks
+│   ├── tratative.ipynb
+```
+
 ## Desenvolvimento
 
 | Feature | Dev | Progresso
 | ------- | --- | ---------
-| EDA | Igor Santana | ---------
-| EDA | Matheus Brandão | ---------
-| EDA | Matheus Silva | ---------
+| EDA | Igor Santana | Andamento
+| EDA | Matheus Brandão | Concluído
+| EDA | Matheus Silva | Andamento
+| Tratative | Matheus Brandão | Concluído
+| Tratative | Matheus Silva | Concluído
+| Report | Igor Santana | ---------
+| Report | Matheus Silva | ---------
+| Report | Matheus Brandão | ---------
+| Model | Igor Santana | Andamento
+| Model | Matheus Silva | Andamento
+| Model | Matheus Brandão | Andamento
 
 ## Contribuições
 
