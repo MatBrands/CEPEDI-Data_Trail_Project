@@ -56,11 +56,8 @@ A estrutura de pastas do projeto buscou obedecer aos critérios organizacionais 
 ├── datasets
 │   ├── processed
 │   │   └── laptop_price.pkl
-│   │   └── README.md
 │   ├── raw
 │   │   ├── laptop_price.csv
-│   │   └── README.md
-│   └── README.md
 ├── notebooks
 │   ├── edas
 │   │   ├── igor_santana.ipynb
@@ -140,4 +137,4 @@ A estrutura de pastas do projeto buscou obedecer aos critérios organizacionais 
 
 ## Contribuições
 
-Ressaltar contribuições que julgarem relevantes.
+Ressaltar contribuições que julgar relevantes.
