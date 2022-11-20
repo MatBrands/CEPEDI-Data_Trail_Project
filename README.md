@@ -126,7 +126,7 @@ A estrutura de pastas do projeto buscou obedecer aos critérios organizacionais 
 
 | Feature | Dev | Progresso
 | ------- | --- | ---------
-| EDA | Igor Santana | Andamento
+| EDA | Igor Santana | Concluído
 | EDA | Matheus Brandão | Concluído
 | EDA | Matheus Silva | Andamento
 | Tratative | Matheus Brandão | Concluído
