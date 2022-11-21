@@ -8,7 +8,6 @@ dependencies:
   - numpy
   - matplotlib
   - seaborn
-  - plotly
   - scikit-learn
   - keras
   - tensorflow
