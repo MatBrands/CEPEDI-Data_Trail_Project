@@ -12,6 +12,8 @@ dependencies:
   - scikit-learn
   - keras
   - tensorflow
+  - tensorflow-gpu
+  - tensorflow-estimator
   - nbformat
   - ipykernel
   - openpyxl
