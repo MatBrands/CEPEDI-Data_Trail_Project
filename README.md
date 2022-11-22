@@ -132,10 +132,10 @@ A estrutura de pastas do projeto buscou obedecer aos critérios organizacionais 
 | Report | Matheus Silva | Concluído
 | Report | Matheus Brandão | Concluido
 | Outputs | Igor Santana | Andamento
-| Outputs | Matheus Brandão | Andamento
+| Outputs | Matheus Brandão | Concluído
 | Outputs | Matheus Silva | Andamento
 | Model | Igor Santana | Andamento
-| Model | Matheus Brandão | Andamento
+| Model | Matheus Brandão | Concluído
 | Model | Matheus Silva | Andamento
 
 ## Contribuições
