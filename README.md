@@ -68,9 +68,9 @@ A estrutura de pastas do projeto buscou obedecer aos critérios organizacionais 
 │   └── tratative.ipynb
 └── outputs
     ├── imgs
-    │   └── README.md
+    │   └── ...
     └── planilhas
-        └── README.md
+        └── ...
 ```
 
 - Foi criado um notebook para cada dev com as Análises Exploratórias
@@ -84,7 +84,7 @@ A estrutura de pastas do projeto buscou obedecer aos critérios organizacionais 
 │   │   └── matheus_ssilva.ipynb
 ```
 
-- Bases de dados 
+- Bases de dados cru e processado
 
 
 ```sh
@@ -123,17 +123,20 @@ A estrutura de pastas do projeto buscou obedecer aos critérios organizacionais 
 
 | Feature | Dev | Progresso
 | ------- | --- | ---------
-| EDA | Igor Santana | Concluído
-| EDA | Matheus Brandão | Concluído
-| EDA | Matheus Silva | Andamento
 | Tratative | Matheus Brandão | Concluído
 | Tratative | Matheus Silva | Concluído
-| Report | Igor Santana | ---------
-| Report | Matheus Silva | ---------
-| Report | Matheus Brandão | ---------
+| EDA | Igor Santana | Concluído
+| EDA | Matheus Brandão | Concluído
+| EDA | Matheus Silva | Concluído
+| Report | Igor Santana | Concluído
+| Report | Matheus Silva | Concluído
+| Report | Matheus Brandão | Concluido
+| Outputs | Igor Santana | Andamento
+| Outputs | Matheus Brandão | Andamento
+| Outputs | Matheus Silva | Andamento
 | Model | Igor Santana | Andamento
-| Model | Matheus Silva | Andamento
 | Model | Matheus Brandão | Andamento
+| Model | Matheus Silva | Andamento
 
 ## Contribuições
 
