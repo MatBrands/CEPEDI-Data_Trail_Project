@@ -67,10 +67,19 @@ A estrutura de pastas do projeto buscou obedecer aos critérios organizacionais 
 │   └── report.ipynb
 │   └── tratative.ipynb
 └── outputs
-    ├── imgs
-    │   └── ...
-    └── planilhas
-        └── ...
+│   ├── imgs
+│   │   ├── bar
+│           └── list_of_images .png...
+│   │   ├── boxplot
+│   │   │   └── list_of_images .png...
+│   │   ├── heatmap
+│   │   │   └── list_of_images .png...
+│   │   ├── pie
+│   │   │   └── list_of_images .png...
+│   │   ├── scatter
+│   │   │   └── list_of_images .png...
+│   └── planilhas
+│   │   └── list_of_spreadsheet .csv...
 ```
 
 - Foi criado um notebook para cada dev com as Análises Exploratórias
@@ -140,4 +149,4 @@ A estrutura de pastas do projeto buscou obedecer aos critérios organizacionais 
 
 ## Contribuições
 
-Ressaltar contribuições que julgar relevantes.
+Ao longo do desenvolvimento do projeto o trabalho em equipe foi uma peça essencial, também pode-se pontuar a leitura constante da documentação das bibliotecas Seaborn, Scikit-learn, Pandas, Numpy e Matplotlib, e por fim revisitar as aulas e notebooks fornecidos pela equipe LuisDev ministradas pelo professor Breno.
